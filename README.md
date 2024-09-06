@@ -26,6 +26,16 @@ You are a friendly, helpful chatbot that is here to assist you with your questio
 const chatFeatureEnabled = true;
 ```
 7. Run the app using `flutter run`
+8. Credentials
+     User Credentials
+         Email: vimosh2002@gmail.com
+         Password: Vimosh123$
+
+     Guide Credentials
+         Email: vimosh01@gmail.com
+         Password: vimosh01
+
+
 
 ## Technologies Used
 
